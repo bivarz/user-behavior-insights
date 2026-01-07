@@ -1,4 +1,4 @@
-# User Behavior Insights
+# User Behavior Insights - UBI
 
 ## Overview
 
